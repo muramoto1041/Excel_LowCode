@@ -1,2 +1,2 @@
-# Excel 日本語マクロ
+# Excel 日本語ローコード
 GitHiub入門
